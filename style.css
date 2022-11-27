@@ -1,0 +1,23 @@
+.area{
+    border-radius: 20px;
+    height: 80%;
+    width: 30%;
+    font-family: 'Sedgwick Ave', cursive;
+    background-image:url(https://cdn.pixabay.com/photo/2015/09/29/06/54/digital-art-963368_960_720.png) ;
+    padding: 10px;
+    margin-left: 485px;
+    margin-top: 55px;
+}
+form{
+   font-family: 'Sedgwick Ave', cursive;
+    padding: 20px;
+}
+
+.fa{     
+    padding: 25px;
+}
+
+h1{
+    margin-left: 80px;
+    color: white;
+}
